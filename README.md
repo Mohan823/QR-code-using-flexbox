@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Product Preview card-Solution](https://github.com/Mohan823/product-preview-card-component.git)
-- Live Site URL: [Product Preview card-Live](https://mohan823.github.io/product-preview-card-component/)
+- Solution URL: [QR code component-Solution](https://github.com/Mohan823/QR-code-using-flexbox.git)
+- Live Site URL: [QR code component-Live](https://mohan823.github.io/QR-code-using-flexbox/)
 
 ## My process
 
